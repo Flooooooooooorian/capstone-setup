@@ -15,6 +15,9 @@
     <description>backend</description>
     <properties>
         <java.version>20</java.version>
+        <sonar.organization>flooooooooooorian</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        <sonar.projectName>flooooooooooorian_capstone-setup-backend</sonar.projectName>
     </properties>
     <dependencies>
         <dependency>
